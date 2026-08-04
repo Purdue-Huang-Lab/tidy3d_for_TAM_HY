@@ -1,0 +1,5 @@
+matplotlib
+numpy
+tidy3d
+tqdm
+pyqt5
